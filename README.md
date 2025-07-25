@@ -34,7 +34,7 @@ Y por último puedes encontrar archivos o carpetas de práctica:
 
 # Recordar algo muy importante:
 
-Debemos hacer el registro en GitHub antes de iniciar a trabajar, dbemos colocar nuestro nombre,
+Debemos hacer el registro en GitHub antes de iniciar a trabajar, dbemos colocar nuestro nombre y el email.
 
 # Tabla de contenidos
 
