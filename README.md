@@ -43,6 +43,11 @@ git config --global user.name (y el nombre completo)
 
 git config --global user.email (el email/correo)
 
+# Para hacer un commit:
+
+<img width="902" height="456" alt="Captura de pantalla 2025-07-25 154041" src="https://github.com/user-attachments/assets/8b62f074-030b-4a96-937c-522f892bc2b9" />
+
+
 # Tabla de contenidos
 
 - [Uso de consola Git Bash](docs/uso_consola.md)
