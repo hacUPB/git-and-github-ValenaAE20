@@ -32,6 +32,10 @@ Y por último puedes encontrar archivos o carpetas de práctica:
 
 4- Y finalmente, para abrirlo en Visual Studio Code, escribimos en comando *code .* (code, un espacio y agregas el punto).
 
+# Recordar algo muy importante:
+
+
+
 # Tabla de contenidos
 
 - [Uso de consola Git Bash](docs/uso_consola.md)
