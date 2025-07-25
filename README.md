@@ -28,6 +28,9 @@ Y por último puedes encontrar archivos o carpetas de práctica:
 
 2- Entramos a la carpeta con el código *cd git-and-github-(y el nombre según como te hayas registrado, o como haya aparecido apenas clonaste el repositorio)*.
 
+<img width="773" height="99" alt="gitvalen" src="https://github.com/user-attachments/assets/5e521fee-6e9c-4be4-839c-cccf57c49898" />
+
+
 3- Para ver los archivos es con el código *ls*.
 
 4- Y finalmente, para abrirlo en Visual Studio Code, escribimos en comando *code .* (code, un espacio y agregas el punto).
