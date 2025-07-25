@@ -38,6 +38,8 @@ Debemos hacer el registro en GitHub antes de iniciar a trabajar, debemos colocar
 
 git config --global user.name (y el nombre completo).
 
+git config --global user.email (el email/correo).
+
 # Tabla de contenidos
 
 - [Uso de consola Git Bash](docs/uso_consola.md)
