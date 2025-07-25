@@ -34,7 +34,9 @@ Y por último puedes encontrar archivos o carpetas de práctica:
 
 # Recordar algo muy importante:
 
-Debemos hacer el registro en GitHub antes de iniciar a trabajar, dbemos colocar nuestro nombre y el email.
+Debemos hacer el registro en GitHub antes de iniciar a trabajar, debemos colocar nuestro nombre y el email. Usando los siguientes códigos:
+
+git config --global user.name (y el nombre completo).
 
 # Tabla de contenidos
 
