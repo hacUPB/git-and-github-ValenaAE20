@@ -1,7 +1,70 @@
+# Descripción del repositorio git-and-github-ValenAE20
+
+Este repositorio contiene varias carpetas:
+
+Tenemos la carpeta de README.md, esta contiene:
+
+- Contiene una descripción de mi proyecto.
+- En esta carpeta se explica qué hace mi repositorio y cómo usarlo.
+- También contiene instrucciones básicas sobre Git Bash y Git Hub.
+
+Tenemos la carpeta de .gitignore:
+
+- En esta carpeta puedes encontrar los archivos que deben ignorar los commits, como por ejemplo archivos de configuración local, o carpetas temporales.
+- Esta carpeta también es útil para evitar subir cosas innecesarias a Git Hub.
+
+Tenemos la carpeta de .git:
+
+- Esta es una carpeta local pero no visible en Git Hub. Pues es una carpeta oculta donde Git guarda todo el historial y configuración que se le hagan al repositorio.
+
+Y por último puedes encontrar archivos o carpetas de práctica:
+
+- En estas carpetas puedes encontrar ejercicios prácticos si estás aprendiendo sobre Git y Git Hub.
+- Presentan los siguientes nombres: ejercicio1.txt, index.html, mi-primer-commit.md, entre otros.
+
+# Pasos para clonar y ejecutar el proyecto
+
+1- Para clonar un repositorio escribimos en Git Bash el código *git clone (y el link de tu repositorio)*.
+
+2- Entramos a la carpeta con el código *cd git-and-github-(y el nombre según como te hayas registrado, o como haya aparecido apenas clonaste el repositorio)*.
+
+<img width="773" height="99" alt="gitvalen" src="https://github.com/user-attachments/assets/5e521fee-6e9c-4be4-839c-cccf57c49898" />
+
+
+3- Para ver los archivos es con el código *ls*.
+
+4- Y finalmente, para abrirlo en Visual Studio Code, escribimos en comando *code .* (code, un espacio y agregas el punto).
+
+# Recordar algo muy importante:
+
+Debemos hacer el registro en GitHub antes de iniciar a trabajar, debemos colocar nuestro nombre y el email. Usando los siguientes códigos:
+
+git config --global user.name (y el nombre completo)
+
+git config --global user.email (el email/correo)
+
+# Para hacer un commit:
+
+<img width="902" height="456" alt="Captura de pantalla 2025-07-25 154041" src="https://github.com/user-attachments/assets/8b62f074-030b-4a96-937c-522f892bc2b9" />
+
+
+# Tabla de contenidos
+
+- [Uso de consola Git Bash](docs/uso_consola.md)
+
+- [Creación de repositorio local](docs/repositorio_local.md)
+
+- [Creación de un repositorio remoto](docs/repositorio_remoto.md)
+
+
+
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Valentina Aristizábal Escobar 
+Id.:  000528187
 ---
 # Evaluación
 
